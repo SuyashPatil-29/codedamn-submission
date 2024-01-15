@@ -1,2 +1,2 @@
 tabs : ["src/app/api/route.ts"]
-terminals : ["npm install"]
+terminals : ["static-server -p 1337 --no-cache"]
