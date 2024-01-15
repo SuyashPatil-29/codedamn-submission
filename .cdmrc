@@ -1,3 +1,4 @@
 tabs : ["src/app/page.tsx"]
-terminals : ["npm install" ,"static-server -p 1337 --no-cache"]
+terminals : ["npm install && npm run dev"]
+run-button: npm run dev
 playground-view: terminal-editor-browser
