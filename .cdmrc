@@ -1,3 +1,3 @@
 tabs : ["src/app/api/route.ts"]
-terminals : ["cd ../page.tsx","static-server -p 1337 --no-cache"]
+terminals : ["static-server -p 1337 --no-cache"]
 playground-view: terminal-editor-browser
