@@ -1,0 +1,2 @@
+tabs : ["src/app/api/route.ts"]
+terminals : ["npm install"]
